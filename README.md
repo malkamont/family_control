@@ -6,4 +6,4 @@
 
 2. Run **model_coalition.py** in the _gt_ environment to detect and analyse coalitions at different organisation levels.
 
-![](cover.svg)
+![](cover.png)
