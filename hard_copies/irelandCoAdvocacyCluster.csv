@@ -1,0 +1,78 @@
+cluster;type;org_id;org_name
+0;business ;IE007;business_in_the_community_ireland
+0;business ;IE009;chambers_ireland
+0;business ;IE049;fuels_for_ireland
+0;business ;IE051;ibec
+0;business ;IE057;irish_creamery_milk_suppliers_association
+0;business ;IE061;irish_farmers_association
+0;business ;IE063;irish_offshore_operators_association
+0;business ;IE066;irish_timber_growers_association
+0;business ;IE084;society_of_the_irish_motor_industry
+0;energy;IE036;electricity_association_of_ireland
+0;energy;IE041;esb
+0;energy;IE055;irish_bioenergy_association
+0;energy;IE058;irish_district_energy_association
+0;energy;IE060;irish_energy_storage_association
+0;energy;IE065;irish_solar_energy_association
+0;energy;IE072;marine_renewables_industry_association
+0;energy;IE086;sse
+0;energy;IE092;wind_energy_ireland
+0;ngo;IE062;irish_green_building_council
+0;party;IE044;fianna_fail
+0;party;IE045;fine_gael
+0;party;IE050;green_party
+0;science;IE039;ucc_environmental_research_institute
+0;science;IE042;esri
+0;science;IE052;icarus_climate_research_centre
+0;science;IE071;marei
+0;science;IE074;ucd_meteorology_and_climate_centre
+0;science;IE089;teagasc
+0;science;IE093;ucd_environmental_policy
+0;state;IE002;atlantic_seaboard_north_caro
+0;state;IE003;atlantic_seaboard_south_caro
+0;state;IE005;bord_bia
+0;state;IE006;bord_namona
+0;state;IE014;codema
+0;state;IE015;coillte
+0;state;IE020;coras_iompair_eireann
+0;state;IE023;department_of_the_environment_climate_and_communications
+0;state;IE024;department_of_enterprise_trade_and_employment
+0;state;IE025;department_of_housing_local_government_and_heritage
+0;state;IE026;department_of_public_expenditure_and_reform
+0;state;IE027;department_of_rural_and_community_development
+0;state;IE029;department_of_transport
+0;state;IE030;dublin_city_council
+0;state;IE031;dublin_metropolitan_caro
+0;state;IE032;eastern_and_midlands_caro
+0;state;IE064;irish_rural_link
+0;state;IE075;national_economic_and_social_council
+0;state;IE076;national_parks_and_wildlife_service
+0;state;IE078;office_public_works
+0;state;IE080;seai
+0;state;IE090;transport_infrastructure_ireland
+1;ngo;IE001;an_taisce
+1;ngo;IE004;birdwatch
+1;ngo;IE010;christian_aid
+1;ngo;IE012;cloughjordan_ecovillage
+1;ngo;IE013;coalition_2030_ireland
+1;ngo;IE021;cyclist_ie_irish_cycling_advocacy_network
+1;ngo;IE033;ecoadvocacy
+1;ngo;IE034;eco_unesco
+1;ngo;IE037;environmental_pillar
+1;ngo;IE043;feasta
+1;ngo;IE047;friends_of_the_earth
+1;ngo;IE048;friends_of_the_irish_environment
+1;ngo;IE059;irish_doctors_for_the_environment
+1;ngo;IE068;jesuit_centre_for_faith_and_justice
+1;ngo;IE079;oxfam
+1;ngo;IE087;stop_climate_chaos
+1;ngo;IE088;tasc
+1;ngo;IE091;trocaire
+1;party;IE069;labour
+1;party;IE081;sinn_fein
+1;party;IE083;social_democrats
+1;party;IE085;s_pbp
+1;science;IE017;community_law_and_mediation
+1;union;IE046;forsa_trade_union
+1;union;IE056;irish_congress_of_trade_unions
+1;union;IE082;siptu
